@@ -4,6 +4,9 @@
 This is the code space for SSFCNet.
 Installation:
 MMRotate depends on PyTorch, MMCV and MMDetection. Below are quick steps for installation. Please refer to Install Guide for more detailed instruction.
+
+---
+
 ```text
 conda create --name openmmlab python=3.9.0 -y
 conda activate openmmlab

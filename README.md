@@ -1,9 +1,9 @@
 <p align="center">
   <h1 align="center">SSFCNet: Stage-Specific Feature Coordination for Oriented Object Detection in Remote Sensing Images</h1>
 </p>
-#This is the code space for SSFCNet.
+# This is the code space for SSFCNet.
 
-#Installation:
+# Installation:
 MMRotate depends on PyTorch, MMCV and MMDetection. Below are quick steps for installation. Please refer to Install Guide for more detailed instruction.
 
 ---
@@ -41,13 +41,13 @@ tools/
   └── train.py            
 ```
 
-#Training
+# Training
 Run the following command from the repository root directory:
 ```text
 python tools/train.py
 ```
 
-#Validation
+# Validation
 Run the following command from the repository root directory:
 ```text
 python tools/test.py
